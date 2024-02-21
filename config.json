@@ -1,0 +1,5 @@
+{
+    "mne": "epo.fif",
+    "bads": ["MEG2423", "MEG2422"],
+    "annotations": "2,2,bibi\n5,2,bad_bobo,MEG2121"
+}
