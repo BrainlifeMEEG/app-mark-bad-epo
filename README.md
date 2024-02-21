@@ -1,6 +1,6 @@
 # Mark bad segments and channels
 
-Brainlife App to reject bad data segments and/or channels MNE-Python [raw.info['bads']](https://mne.tools/stable/auto_tutorials/preprocessing/15_handling_bad_channels.html), and [mne.Annotations](https://mne.tools/stable/generated/mne.Annotations.html#mne-annotations).
+Brainlife App to reject bad data segments and/or channels MNE-Python [epo.info['bads']](https://mne.tools/stable/auto_tutorials/preprocessing/15_handling_bad_channels.html), and [mne.Annotations](https://mne.tools/stable/generated/mne.Annotations.html#mne-annotations).
 
 # Documentation
 
