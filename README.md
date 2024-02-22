@@ -26,7 +26,7 @@ Brainlife App to reject bad data segments and/or channels MNE-Python [epo.info['
 - [Maximilien Chaumon](maximilien.chaumon@icm-institute.org)
 
 ## Contributors
-- [Kami Salibayeva](ksalibay@iu.edu)
+- [Kamilya Salibayeva](ksalibay@iu.edu)
 
 
 ### Funding Acknowledgement
