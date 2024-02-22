@@ -63,4 +63,4 @@ if nuan:
 
     epo.set_annotations(annot)
 
-epo.save(os.path.join('out_dir','epo.fif'), overwrite=True)
+epo.save(os.path.join('out_dir','meg-epo.fif'), overwrite=True)
