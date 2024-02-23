@@ -17,7 +17,7 @@ with open('config.json') as config_json:
 
 data_file = config['mne']
 
-epo = mne.io.read_epochs(data_file,verbose=False)
+epo = mne.read_epochs(data_file,verbose=False, preload=True)
 
 if config['bads']:
     # if config['bads'] is not a list, make it a list
